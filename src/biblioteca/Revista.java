@@ -1,3 +1,5 @@
+package biblioteca;
+
 public class Revista extends ItenBiblioteca  {
     
     String frequencia_de_publi;

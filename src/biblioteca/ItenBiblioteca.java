@@ -1,3 +1,5 @@
+package biblioteca;
+
 public class ItenBiblioteca implements BalcaoDeAluguel{
 
     String titulo;

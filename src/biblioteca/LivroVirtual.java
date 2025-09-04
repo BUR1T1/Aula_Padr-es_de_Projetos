@@ -1,3 +1,5 @@
+package biblioteca;
+
 public class LivroVirtual extends ItenBiblioteca{
     
     int tamanho_do_livro;

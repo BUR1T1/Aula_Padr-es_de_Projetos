@@ -1,3 +1,5 @@
+package biblioteca;
+
 public interface BalcaoDeAluguel {
     
     static void alugra(ItenBiblioteca itenBiblioteca){
