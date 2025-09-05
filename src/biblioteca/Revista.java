@@ -10,6 +10,7 @@ public class Revista extends ItenBiblioteca  {
         this.frequencia_de_publi = frequencia_de_publi;
 
     }
+    
     @Override
     public String toString() {
         if (disponibilidade = true) {

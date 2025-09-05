@@ -1,5 +1,5 @@
 package Atividade_Aula05;
 
 public interface Pagamento {
-    void processarpagamento(); 
+    void processarpagamento(double valor);
 }
